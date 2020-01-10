@@ -1,0 +1,26 @@
+﻿.tree {
+    margin: 0;
+    padding: 0;
+}
+
+    .tree ul {
+        list-style-type: none;
+    }
+
+    .tree span.item {
+        background-color: red;
+        cursor:default;
+        user-select:none;
+    }
+
+    .tree span.selected {
+        background-color: blue;
+    }
+
+    .tree .nested {
+        display: none;
+    }
+
+    .tree .active {
+        display: block;
+    }

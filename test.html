@@ -1,0 +1,22 @@
+﻿<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+    <script type="text/javascript" src="../Tree/Tree.js"></script>
+    <script>
+        window.onload = function(){
+            var dataurl2 = "Admin_Code.aspx?type=tdata";
+            setTree("testtree", dataurl2);
+            trees["testtree"].setOnClick(function (obj) {
+                console.log(obj.Name);
+                console.log("getValue : " + trees["testtree"].getValue(10).Name);
+            });
+
+            trees["testtree"].setIcon("User", "/Tree/Images/Person.png");
+            trees["testtree"].setIcon("Group", "/Tree/Images/Department.png");
+        };
+    </script>
+</HEAD>
+<BODY>
+    <div id="testtree" style="width:500px; height:500px;">TestTree</div>
+</BODY>
+</HTML>

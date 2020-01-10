@@ -1,0 +1,212 @@
+{
+  "tree": [
+    {
+      "id": "1",
+      "Name": "Àü»ç",
+      "Parent": "0",
+      "Depth": "0",
+      "Type": "Group",
+      "Expanded": "1",
+      "child": [
+        {
+          "id": "2",
+          "Name": "°æ¿µÁö¿ø½Ç",
+          "Parent": "1",
+          "Depth": "1",
+          "Type": "Group",
+          "Expanded": "0",
+          "child": [
+            {
+              "id": "3",
+              "Name": "ÃÑ¹«ÆÀ",
+              "Parent": "2",
+              "Depth": "2",
+              "Type": "Group",
+              "Expanded": "0",
+              "child": [
+                {
+                  "id": "1",
+                  "Name": "½Å½Â¿ø",
+                  "Parent": "3",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                },
+                {
+                  "id": "2",
+                  "Name": "±è½ÂÁø",
+                  "Parent": "3",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                },
+                {
+                  "id": "5",
+                  "Name": "¹Ú³ª·¡",
+                  "Parent": "3",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "Name": "ÀÎ»çÆÀ",
+              "Parent": "2",
+              "Depth": "2",
+              "Type": "Group",
+              "Expanded": "0"
+            },
+            {
+              "id": "5",
+              "Name": "Àü»êÆÀ",
+              "Parent": "2",
+              "Depth": "2",
+              "Type": "Group",
+              "Expanded": "0",
+              "child": [
+                {
+                  "id": "3",
+                  "Name": "¹ÚÁö¼ö",
+                  "Parent": "5",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                },
+                {
+                  "id": "4",
+                  "Name": "Á¤³²Áø",
+                  "Parent": "5",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "Name": "Àç¹«È¸°è½Ç",
+          "Parent": "1",
+          "Depth": "1",
+          "Type": "Group",
+          "Expanded": "0",
+          "child": [
+            {
+              "id": "3",
+              "Name": "ÃÑ¹«ÆÀ",
+              "Parent": "6",
+              "Depth": "2",
+              "Type": "Group",
+              "Expanded": "0",
+              "child": [
+                {
+                  "id": "1",
+                  "Name": "½Å½Â¿ø",
+                  "Parent": "3",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                },
+                {
+                  "id": "2",
+                  "Name": "±è½ÂÁø",
+                  "Parent": "3",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                },
+                {
+                  "id": "5",
+                  "Name": "¹Ú³ª·¡",
+                  "Parent": "3",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                }
+              ]
+            },
+            {
+              "id": "7",
+              "Name": "ºô¸µÆÀ",
+              "Parent": "6",
+              "Depth": "2",
+              "Type": "Group",
+              "Expanded": "0",
+              "child": [
+                {
+                  "id": "6",
+                  "Name": "ÀÌÁø¼ö",
+                  "Parent": "7",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                },
+                {
+                  "id": "7",
+                  "Name": "ÃÖÁ¤Áø",
+                  "Parent": "7",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                },
+                {
+                  "id": "10",
+                  "Name": "ÇÑÁ¤ÁÖ",
+                  "Parent": "7",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                }
+              ]
+            },
+            {
+              "id": "8",
+              "Name": "È¸°èÆÀ",
+              "Parent": "6",
+              "Depth": "2",
+              "Type": "Group",
+              "Expanded": "0"
+            },
+            {
+              "id": "9",
+              "Name": "Ã»±¸ÆÀ",
+              "Parent": "6",
+              "Depth": "2",
+              "Type": "Group",
+              "Expanded": "0",
+              "child": [
+                {
+                  "id": "8",
+                  "Name": "¾ç¸¸Áß",
+                  "Parent": "9",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                },
+                {
+                  "id": "9",
+                  "Name": "Á¶¹Î¼ö",
+                  "Parent": "9",
+                  "Depth": "9999",
+                  "Type": "User",
+                  "Expanded": "0"
+                }
+              ]
+            },
+            {
+              "id": "10",
+              "Name": "¹Ì¼öÆÀ",
+              "Parent": "6",
+              "Depth": "2",
+              "Type": "Group",
+              "Expanded": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
